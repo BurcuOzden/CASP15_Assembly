@@ -30,7 +30,7 @@ The repository is organized into the following main folders:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/BurcuOzden/CASP15_Assembly.git)
+   git clone https://github.com/BurcuOzden/CASP15_Assembly.git
 
 Or
 
